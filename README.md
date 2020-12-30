@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# This project will help to add/remove/update Todos as required. Used React/React-Redux/React-Thunk/React/Node Express.
+
 ## Available Scripts
 
 In the project directory, you can run:
